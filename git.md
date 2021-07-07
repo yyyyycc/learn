@@ -156,3 +156,6 @@ git pull origin dev:master
 git push
 ```
 
+#### 7. 参看文档
+
+1. [Git教程][https://www.liaoxuefeng.com/wiki/896043488029600]
